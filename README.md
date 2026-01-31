@@ -69,8 +69,7 @@ predicted_marks = model.predict([[hours]])
 print(f"\nPredicted marks for {hours} hours of study = {predicted_marks[0]:.2f}")
 ```
 ## Output:
-<img width="857" height="572" alt="image" src="https://github.com/user-attachments/assets/fa5b0adb-f2c9-4683-a628-5313f0788566" />
-
+<img width="858" height="572" alt="Screenshot 2026-01-31 084214" src="https://github.com/user-attachments/assets/47a85639-92ab-4b52-8b1d-96fad1fe7155" />
 
 
 ## Result:
